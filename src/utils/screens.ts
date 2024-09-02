@@ -1,4 +1,6 @@
 export enum Screen {
   Main = 'Main',
-  About = 'About'
+  About = 'About',
+  Details = 'Details',
+  MainTop = "MainCore"
 }
